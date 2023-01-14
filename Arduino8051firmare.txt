@@ -1,0 +1,4 @@
+"C:\Users\ashwi\AppData\Local\Arduino15\packages\arduino\tools\avrdude\6.3.0-arduino17\bin\avrdude.exe" -C C:\AVR8051.conf -c stk500v1 -P COM5 -p 89s52 -b 19200 -U flash:w:"C:\Keil\C51\Examples\8051\HELLO.hex":a
+
+
+"Path of avrdude.exe"-C C:\AVR8051.conf -c stk500v1 -P COM5 -p 89s52 -b 19200 -U flash:w:"Path of Hex File":a
